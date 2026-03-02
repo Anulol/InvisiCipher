@@ -45,7 +45,7 @@ The project architecture consists of the following components:
 
 To get started with our project, follow these steps:
 
-1. **Clone the Repository**: `git clone https://github.com/Asirwad/InvisiCipher.git`
+1. **Clone the Repository**: `git clone https://github.com/Anulol/InvisiCipher.git`
 
 2. **Install Dependencies**: Install the required dependencies by running `pip install -r requirements.txt`.
 
@@ -56,10 +56,4 @@ To get started with our project, follow these steps:
 5. **Train the Models**: Run the training script to train the CNN models and ESRGAN: `python train.py`.
 
 6. **Explore the Scripts**: Utilize the provided scripts to hide, encrypt, reveal, and enhance images based on your specific requirements.
-
-## Welcome screen
-
-<p align="center">
-  <img src="app/ui/assets/readme_assets/main_window.png" alt="Welcome" width="1000">
-</p>
 
