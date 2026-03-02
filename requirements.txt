@@ -1,0 +1,7 @@
+tensorflow
+torch
+opencv-python
+Pillow
+pycryptodome
+PyQt5
+numpy
