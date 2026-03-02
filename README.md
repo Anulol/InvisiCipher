@@ -63,38 +63,3 @@ To get started with our project, follow these steps:
   <img src="app/ui/assets/readme_assets/main_window.png" alt="Welcome" width="1000">
 </p>
 
-## Image hide
-
-<p align="center">
-  <img src="app/ui/assets/readme_assets/hide.png" alt="Image hide" width="1000">
-</p>
-
-## Image reveal
-
-<p align="center">
-  <img src="app/ui/assets/readme_assets/reveal.png" alt="Image reveal" width="1000">
-</p>
-
-## Super resolution
-
-<p align="center">
-  <img src="app/ui/assets/readme_assets/superres.png" alt="Super resolution" width="1000">
-</p>
-
-## Contributing
-
-We welcome contributions from the open source community. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## Acknowledgements
-
-We would like to acknowledge the following resources and libraries used in this project:
-
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="TensorFlow" width="26" align="center"> TensorFlow: [↗️](https://www.tensorflow.org/)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png"
- alt="PyTorch" width="25" align="center"> PyTorch: [↗️](https://pytorch.org/)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/800px-Python_and_Qt.svg.png"
- alt="PyQt" width="25" align="center"> PyQt: [↗️](https://www.qt.io/qt-for-python)
-
-## Contact
-
-For any questions or inquiries, please contact us at [asirwadsali@gmail.com](mailto:asirwadsali@gmail.com).
